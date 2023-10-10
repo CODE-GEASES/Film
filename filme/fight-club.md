@@ -13,3 +13,5 @@ Der kontroverse Streit von *David Fincher* ist nun erstmal beim chinesischen Str
 des Konzerns Tencent zu sehen.
 
 ###Eine perfekt eingerichtete Wohnung, die eine Wohlfühlatmosphäre und Hochklassigkeit ausstrahlt. Bestimmt eine traumhafte Vorstellung. Doch was ist der Preis?
+
+(veränderte Version)
