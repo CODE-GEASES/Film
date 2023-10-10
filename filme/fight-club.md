@@ -13,10 +13,12 @@ Der kontroverse Streit von *David Fincher* ist nun erstmal beim chinesischen Str
 des Konzerns Tencent zu sehen.
 
 ###Eine perfekt eingerichtete Wohnung, die eine Wohlfühlatmosphäre und Hochklassigkeit ausstrahlt. Bestimmt eine traumhafte Vorstellung. Doch was ist der Preis?
-![43d6f78a9f9e7da1a1cfe9b2104f11fa](https://github.com/CODE-GEASES/Film/assets/137360469/0b2be082-84be-4670-b1cc-cbe835da408f)
+
+
+
+![832b2213e207882b949ae307a34736b6](https://github.com/CODE-GEASES/Film/assets/137360469/f4060c85-7c21-42e4-88ba-9781badabfce)
  
- Updated upstream
-(veränderte Version2)
+Updated upstream (veränderte Version2)
 =======
 (veränderte 2Test Version)
  Stashed changes
